@@ -49,3 +49,5 @@ Thumbs.db
 yarn.lock
 package-lock.json
 .yarn/
+
+CLAUDE.md
